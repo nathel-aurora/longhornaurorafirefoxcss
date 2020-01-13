@@ -1,5 +1,6 @@
 # longhornaurorafirefoxcss
 userChrome.css must be in chrome folder of firefox
+
 unlock custom css for firefox:
 about:config > toolkit.legacyUserProfileCustomizations.stylesheets > true
 
