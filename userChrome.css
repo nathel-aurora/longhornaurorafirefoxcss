@@ -6,7 +6,7 @@
 
 /* custom large back-forward buttons */
 #main-window toolbox toolbar :-moz-any(#back-button, #forward-button) .toolbarbutton-icon {
-  list-style-image: url("./image/longhorn.png") !important;
+  list-style-image: url("./images/longhorn.png") !important;
 }
 
 /* override custom button shapes */
@@ -106,7 +106,7 @@
 
 #PanelUI-button #PanelUI-menu-button .toolbarbutton-icon {
  /* list-style-image: url("chrome://branding/content/about-logo.png") !important;*/
-  list-style-image: url("./image/bookmarks.png")!important;
+  list-style-image: url("./images/bookmarks.png")!important;
   width: 40px !important;
   height: 40px !important;
 }
